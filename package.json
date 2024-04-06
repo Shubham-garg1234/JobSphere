@@ -16,5 +16,6 @@
   },
   "devDependencies": {
     "process": "^0.11.10"
-  }
+  },
+  "main": "App.js"
 }
