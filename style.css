@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+  }
+  
+  .GameArea {
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    background-color: #f0f0f0;
+  }
+  
+  .Score,
+  .Time {
+    position: absolute;
+    top: 20px;
+    font-size: 24px;
+  }
+  
+  .Balloon {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: red; /* Change to image background */
+    border-radius: 50%;
+  }
